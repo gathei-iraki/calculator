@@ -3,6 +3,8 @@
 #### By Silvia Gathei
 ## About the project
 The website is able to calculate the specific day of a persons birth and give them an Akan name.
+##Setup
+https://github.com/gathei-iraki/calculator.git
 ## Installation requirements
 1) 8GB RAM
 2) Core i5
